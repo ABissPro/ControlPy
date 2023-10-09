@@ -1,4 +1,4 @@
-from Menu import Menu
+import controller
 
-app = Menu()
-app.start()
+
+controller.commands()
